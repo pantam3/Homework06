@@ -133,6 +133,8 @@
           <input type="submit" value="Изпрати!">
       </div>
 
+     <!-- comment -->
+
       <?php
       if(isset($_SESSION['counter'])){
           if($_SESSION['counter'] == 0){
